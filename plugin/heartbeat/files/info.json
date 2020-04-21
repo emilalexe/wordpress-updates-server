@@ -1,0 +1,37 @@
+{
+    "name" : "HeardBeat",
+    "slug" : "heartbeat",
+    "homepage" : "https://www.devprolab.com/wordpress/plugin/heartbeat",
+    "download_url" : "https://www.devprolab.com/wordpress/plugin/heartbeat/files/zip/heartbeat.v1.1.zip",
+    
+    "version" : "1.1",
+    "requires" : "3.2",
+    "tested" : "5.4",
+    "last_updated" : "2020-01-30 19:41:00",
+    "upgrade_notice" : "Here's why you should upgrade...",
+    
+    "author" : "Emil ALEXE",
+    "author_homepage" : "http://emil.alexe.xyz",
+    
+    "sections" : {
+        "description" : "(Required) Plugin description. Basic HTML can be used in all sections.",
+        "installation" : "(Recommended) Installation instructions.",
+        "changelog" : "(Recommended) Changelog. <p>This section will be opened by default when the user clicks 'View version XYZ details'.</p>",
+        "custom_section" : "This is a custom section labeled 'Custom Section'." 
+    },
+    
+    "icons" : {
+		"1x" : "https://www.devprolab.com/wordpress/plugin/heartbeat/files/images/icon-128x128.png",
+		"2x" : "https://www.devprolab.com/wordpress/plugin/heartbeat/files/images/icon-256x256.png"
+    },
+    
+    "banners" : {
+		"low" : "https://www.devprolab.com/wordpress/plugin/heartbeat/files/images/banner-772x250.png",
+		"high" : "https://www.devprolab.com/wordpress/plugin/heartbeat/files/images/banner-1544x500.png"
+    },
+    
+    "rating" : 90,
+    "num_ratings" : 123,
+    "downloaded" : 1234,
+    "active_installs" : 12345
+}

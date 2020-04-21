@@ -1,0 +1,37 @@
+{
+    "name" : "Dance Competition",
+    "slug" : "dance-competition",
+    "homepage" : "http://wp.devprolab.com/plugin/dance-competition",
+    "download_url" : "http://wp.devprolab.com/plugin/dance-competition/files/zip/dance-competition-plugin.v1.0.zip",
+    
+    "version" : "1.1",
+    "requires" : "5.4",
+    "tested" : "5.4",
+    "last_updated" : "2020-04-15 20:00:00",
+    "upgrade_notice" : "Here's why you should upgrade...",
+    
+    "author" : "Emil ALEXE",
+    "author_homepage" : "http://emil.alexe.xyz",
+    
+    "sections" : {
+        "description" : "(Required) Plugin description. Basic HTML can be used in all sections.",
+        "installation" : "(Recommended) Installation instructions.",
+        "changelog" : "(Recommended) Changelog. <p>This section will be opened by default when the user clicks 'View version XYZ details'.</p>",
+        "custom_section" : "This is a custom section labeled 'Custom Section'." 
+    },
+    
+    "icons" : {
+		"1x" : "http://wp.devprolab.com/plugin/dance-competition/files/images/icon-128x128.png",
+		"2x" : "http://wp.devprolab.com/plugin/dance-competition/files/images/icon-256x256.png"
+    },
+    
+    "banners" : {
+		"low" : "http://wp.devprolab.com/plugin/dance-competition/files/images/banner-772x250.png",
+		"high" : "http://wp.devprolab.com/plugin/dance-competition/files/images/banner-1544x500.png"
+    },
+    
+    "rating" : 90,
+    "num_ratings" : 123,
+    "downloaded" : 1234,
+    "active_installs" : 12345
+}
